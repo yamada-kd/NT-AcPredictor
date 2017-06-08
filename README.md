@@ -18,4 +18,4 @@ $ nT-AcPredictor.py -i INPUT -f (truncated|exist)
 
 ## Reference
 
-Yamada KD, Omori S, Nish H, Miyagi M, Identification of the sequence determinants of protein N-terminal acetylation through a decision tree approach, BMC Bioinformatics, Accepted, 2017
+Yamada KD, Omori S, Nish H, Miyagi M, Identification of the sequence determinants of protein N-terminal acetylation through a decision tree approach, BMC Bioinformatics, 18(1):289, 2017
