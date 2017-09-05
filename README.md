@@ -1,6 +1,6 @@
 # NT-AcPredictor
 
-NT-AcPredictor: predicting N-terminal acetylated sequences by decision tree.
+NT-AcPredictor: predicting N-terminal acetylated sequences by decision tree
 
 ## Abstract
 
