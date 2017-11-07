@@ -13,7 +13,7 @@ The program was produced and would be maintained by Kazunori D Yamada (kyamada@e
 
 To run the program, simply type the following command. The format of input file must be FASTA format. The program accepts multiple sequence file.
 
-$ nT-AcPredictor.py -i INPUT -f (truncated|exist)
+`$ nT-AcPredictor.py -i INPUT -f (truncated|exist)`
 
 
 ## Reference
